@@ -1,0 +1,78 @@
+﻿  TrabajoParcial.cpp
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Calificar.h(11,71): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Calificar.h(11,87): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Nota.h(26,39): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Nota.h(28,58): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Nota.h(43,52): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Nota.h(45,63): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Nota.h(47,72): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Nota.h(47,112): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Nota.h(47,117): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Nota.h(65,33): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Nota.h(67,37): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Nota.h(68,37): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Curso.h(27,49): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Curso.h(31,68): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\TrabajoParcial.cpp(82,47): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\TrabajoParcial.cpp(100,38): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\TrabajoParcial.cpp(213,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\TrabajoParcial.cpp(223,92): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\TrabajoParcial.cpp(223,209): warning C4267: 'argumento': conversión de 'size_t' a 'uint'; posible pérdida de datos
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\TrabajoParcial.cpp(237,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Lista.h(90,27): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Lista.h(90,27):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Alumno.h(19,25):
+  	Vea la referencia a la creación de una instancia de clase plantilla "Lista<std::string>" que se está compilando
+  	C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Lista.h(83,44):
+  	al compilar la función del miembro clase plantilla "void Lista<std::string>::agregaPos(T,uint)"
+          with
+          [
+              T=std::string
+          ]
+  		C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Alumno.h(33,122):
+  		vea la primera referencia a “Lista<std::string>::agregaPos” en “CAlumno::setCurso”
+  
+C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Lista.h(156,27): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Lista.h(156,27):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Lista.h(153,34):
+  	al compilar la función del miembro clase plantilla "T Lista<T>::obtenerPos(uint)"
+          with
+          [
+              T=std::string
+          ]
+  		C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\Nota.h(26,4):
+  		vea la primera referencia a “Lista<std::string>::obtenerPos” en “CNota::asignarNotas”
+  
+  TrabajoParcial.vcxproj -> C:\Users\lenovo\Desktop\Parcial 2\TrabajoParcial\x64\Debug\TrabajoParcial.exe
